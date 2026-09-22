@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "32f45af9490bcb68b001e003",
+  "owner": "evckbvq",
+  "repo": "page-abdb866c4cea17ab29638c44",
+  "title": "Geekspeed",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "abdb866c4cea17ab29638c44",
+      "a": "Geekspeed",
+      "b": "稳定全球clash加速器",
+      "entity": "Geekspeed",
+      "brand": "Geekspeed",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "c2a096a5c93464448a66fdd01f96759c47e142a5aa31069bb5c8700156c16501",
+      "content": {
+        "primary_entity": "Geekspeed",
+        "keyword1": "Geekspeed",
+        "keyword2": "稳定全球clash加速器",
+        "content": {
+          "AI_CLIENTS_INTRO": "Windows 与 macOS 用 Clash Verge 或 Clash for Windows，Android 选 Clash Meta，iOS 选 Stash 或 Shadowrocket，路由器可装 OpenWrt 版。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "先看自己有几台设备、每月大概用多少流量，再从基础版、旗舰版、团队版里挑一档，按年付通常更省。",
+          "AI_CLOSING_TITLE": "选对套餐再开始",
+          "AI_DESCRIPTION": "，Geekspeed 提供基础版、旗舰版与团队版三档订阅，月流量从 100GB 到 1000GB，同时在线设备 3 到 20 台。旗舰版带 IPLC 专线并针对游戏加速优化，团队版给到 VIP 高带宽节点与企业定制路由。按年付可省两个月费用，配合 Clash 客户端导入订阅即可使用。",
+          "AI_FEATURES_INTRO": "套餐选择、设备数量与订阅周期是决定体验的三个变量，先明确再下单更省心。",
+          "AI_FEATURES_TITLE": "挑套餐先看三件事",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月实际用量选档，避免流量不够或过量闲置。",
+          "AI_FEATURE_TEXT_2": "从 3 台到 20 台在线设备，手机、电脑、平板与路由器按需分配，团队版适合多人共用一条订阅。",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，长期使用建议按年付。",
+          "AI_FEATURE_TITLE_1": "套餐流量分级",
+          "AI_FEATURE_TITLE_2": "设备数量匹配",
+          "AI_FEATURE_TITLE_3": "订阅周期选择",
+          "AI_GUIDE_INTRO": "先确定预算与设备，再对照套餐权益，最后按客户端文档填入订阅地址。",
+          "AI_GUIDE_TITLE": "三步完成配置",
+          "AI_HERO_INTRO": "Geekspeed 面向需要稳定跨国访问的用户，提供基础版、旗舰版与团队版三档订阅，覆盖 100GB 到 1000GB 月流量与 3 到 20 台设备。旗舰版含 IPLC 专线，团队版提供企业定制路由，搭配 Clash 客户端可完成订阅导入。",
+          "AI_HERO_SUBTITLE": "三档订阅覆盖多设备使用",
+          "AI_HIGHLIGHT_1": "月流量 100GB 至 1000GB",
+          "AI_HIGHLIGHT_2": "同时在线 3 至 20 台设备",
+          "AI_HIGHLIGHT_3": "旗舰版含 IPLC 专线",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，含 100GB 流量与 3 台设备；旗舰版 ¥35/月或 ¥350/年，含 300GB、5 台设备与 IPLC 专线；团队版 ¥85/月或 ¥850/年，含 1000GB、20 台设备与 VIP 高带宽节点。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "按自己每月流量、设备数量和上网场景，从基础版、旗舰版、团队版中选一档订阅。",
+          "AI_STEP_TEXT_2": "查看所选套餐的流量额度、同时在线设备数与节点类型，确认满足日常使用需求。",
+          "AI_STEP_TEXT_3": "打开对应客户端，按 Clash Verge、Clash Meta 或 Stash 的文档导入订阅地址并选择节点。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "配置客户端订阅",
+          "AI_VISUAL_TITLE": "Geekspeed 订阅选哪档",
+          "AI_FAQ_ANSWER_1": "按设备与流量选择：单人日常浏览选基础版 100GB；经常看流媒体或打游戏选旗舰版 300GB 与 IPLC 专线；多人共享或企业使用选团队版 1000GB、20 台设备。",
+          "AI_FAQ_ANSWER_2": "不同套餐允许同时在线设备数不同，基础版 3 台、旗舰版 5 台、团队版 20 台。超出数量可升级套餐，或在客户端中管理已登录设备。",
+          "AI_FAQ_ANSWER_3": "年付更划算，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于节省两个月月付费用。长期稳定使用建议直接选择年付。",
+          "AI_FAQ_ANSWER_4": "选择设备系统对应的客户端，将订阅链接导入后更新节点即可。路由器、电视盒子等设备建议参考对应客户端文档设置。",
+          "AI_FAQ_ANSWER_5": "旗舰版有 IPLC 专线并针对游戏加速优化，团队版提供 VIP 专属高带宽节点与定制路由，适合对延迟和带宽要求更高的场景。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Geekspeed 三档套餐怎么选？",
+          "AI_FAQ_QUESTION_2": "同时在线设备数不够用怎么办？",
+          "AI_FAQ_QUESTION_3": "年付和月付有什么区别？",
+          "AI_FAQ_QUESTION_4": "如何在常用设备上配置订阅？",
+          "AI_FAQ_QUESTION_5": "游戏或流媒体有专门优化吗？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "tepxpax.cn",
+    "host": "tepxpax.cn"
+  },
+  "file_hashes": {
+    "index.html": "41aef77d9b7b82069dba13554d2a6baedf6747293f83d7733e54d0a8e71d7a47",
+    "sitemap.xml": "4dd4e4f78b1b387d422d836872001fa4183da4c1d2451d5fe1c796d3d73f8604",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "53506232df77462b782ea8400a61a71b43014a5f61c6ddc7c786382c22ab1c05",
+    "robots.txt": "04c86729a945db9b53660d1db858d171588273930527cc6c1786ada23227bc33",
+    "a68ec1de967c25e901633aea17aae2d8.txt": "fe63f8a41dad2d0b5d9edc5a4b50d700ee011af608ba4b11ec9da8673a7be983"
+  },
+  "revision": "95b6ff7d1649e8f6275e51eb15fc0cc3d43f52607fac705e4ed76202f19ae793"
+}
